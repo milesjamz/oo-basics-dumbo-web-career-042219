@@ -6,6 +6,7 @@ attr_accessor :title, :author, :page_count, :genre
   end
   
   def turn_page
+    puts ""
   end
 
 end
